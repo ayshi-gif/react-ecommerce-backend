@@ -1,0 +1,4 @@
+[
+  { "id": 1, "title": "Every Nation Cap", "price": 450, "rating": { "rate": 5 }, "image": "/images/1.png", "category": "Apparel" },
+  { "id": 2, "title": "Every Campus Cap", "price": 450, "rating": { "rate": 5 }, "image": "/images/2.png", "category": "Apparel" }
+]
