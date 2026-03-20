@@ -3,7 +3,7 @@ const express = require("express");
 const cors = require("cors");
 
 // Import product data from the data folder
-const products = require("./data/products");
+const products = require("./data/products.json");
 
 // Create an Express application
 const app = express();
